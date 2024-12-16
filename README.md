@@ -22,6 +22,8 @@ This project presents a detailed performance analysis of Calwest E-Commerce, a f
   - Scatter Plot: Shows Profit Margin % vs. Gross Revenue.
   - Interactive filters for dynamic order date exploration.
 
+<img width="926" alt="image" src="https://github.com/user-attachments/assets/73418578-62ca-4cb1-83c6-3565957a9883" />
+
 #### 2. Regional Performance Dashboard
 - **Metrics**: Geographical revenue insights and promotional impact analysis.
 - **Visualizations**:
@@ -30,6 +32,8 @@ This project presents a detailed performance analysis of Calwest E-Commerce, a f
   - Tree Map: Profit Margin % by category and subcategory.
   - Lollipop Chart: Highlights the top 10 products by Gross Revenue.
   - State-level interactivity to filter supporting visuals.
+
+<img width="926" alt="image" src="https://github.com/user-attachments/assets/8ca4ae4b-eed9-47c2-850a-c57d2ec9028d" />
 
 ---
 
