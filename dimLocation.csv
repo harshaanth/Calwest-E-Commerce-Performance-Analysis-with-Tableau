@@ -1,0 +1,49 @@
+State,Abbreviation,Capital,Population,Region,LocationId
+Alabama,AL,Montgomery,5024279,South,1
+Arizona,AZ,Phoenix,7151502,West,3
+Arkansas,AR,Little Rock,3011524,South,4
+California,CA,Sacramento,39538223,West,5
+Colorado,CO,Denver,5773714,West,6
+Connecticut,CT,Hartford,3605944,East,7
+Delaware,DE,Dover,989948,East,8
+Florida,FL,Tallahassee,21538187,South,9
+Georgia,GA,Atlanta,10711908,South,10
+Idaho,ID,Boise,1839106,West,12
+Illinois,IL,Springfield,12812508,Central,13
+Indiana,IN,Indianapolis,6785528,Central,14
+Iowa,IA,Des Moines,3190369,Central,15
+Kansas,KS,Topeka,2937880,Central,16
+Kentucky,KY,Frankfort,4505836,South,17
+Louisiana,LA,Baton Rouge,4657757,South,18
+Maine,ME,Augusta,1362359,East,19
+Maryland,MD,Annapolis,6177224,East,20
+Massachusetts,MA,Boston,7029917,East,21
+Michigan,MI,Lansing,10077331,Central,22
+Minnesota,MN,St. Paul,5706494,Central,23
+Mississippi,MS,Jackson,2961279,South,24
+Missouri,MO,Jefferson City,6154913,Central,25
+Montana,MT,Helena,1084225,West,26
+Nebraska,NE,Lincoln,1961504,Central,27
+Nevada,NV,Carson City,3104614,West,28
+New Hampshire,NH,Concord,1377529,East,29
+New Jersey,NJ,Trenton,9288994,East,30
+New Mexico,NM,Santa Fe,2117522,West,31
+New York,NY,Albany,20201249,East,32
+North Carolina,NC,Raleigh,10439388,South,33
+North Dakota,ND,Bismarck,779094,Central,34
+Ohio,OH,Columbus,11799448,East,35
+Oklahoma,OK,Oklahoma City,3959353,Central,36
+Oregon,OR,Salem,4237256,West,37
+Pennsylvania,PA,Harrisburg,13002700,East,38
+Rhode Island,RI,Providence,1097379,East,39
+South Carolina,SC,Columbia,5118425,South,40
+South Dakota,SD,Pierre,886667,Central,41
+Tennessee,TN,Nashville,6910840,South,42
+Texas,TX,Austin,29145505,Central,43
+Utah,UT,Salt Lake City,3271616,West,44
+Vermont,VT,Montpelier,643077,East,45
+Virginia,VA,Richmond,8631393,South,46
+Washington,WA,Olympia,7705281,West,47
+West Virginia,WV,Charleston,1793716,East,48
+Wisconsin,WI,Madison,5893718,Central,49
+Wyoming,WY,Cheyenne,576851,West,50

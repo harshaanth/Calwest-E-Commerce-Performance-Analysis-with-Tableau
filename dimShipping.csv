@@ -1,0 +1,4 @@
+ShippingMethodId,ShippingType,ShippingMethod
+1,ShipToHome,2 Day
+2,ShipToHome,Overnight
+3,ShipToHome,3-5 Days

@@ -1,0 +1,4 @@
+PaymentId,Provider,PaymentMethod
+1,Stripe,Online
+2,PayPal,Online
+3,Venmo,Online
