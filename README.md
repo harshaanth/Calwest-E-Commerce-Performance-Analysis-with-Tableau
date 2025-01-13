@@ -2,7 +2,7 @@
 
 Tools: Tableau, Data Modeling, KPI’s, Dashboards
 
-Analyzed 12,000 records to track sales and product performance by states within the USA, visualizing profit margins and gross revenue over time. Identified a 0.51% drop in profit margin and a $4.5 decline in average order value post-January 2021 due to promotions. Highlighted personal care products as high-margin opportunities and recommended reduced promotions
+Analyzed 12,000 records to track sales and product performance by states within the USA, visualizing profit margins and gross revenue over time. Identified a 0.51% drop in profit margin and a $4.5 decline in average order value post-January 2021 due to promotions. Highlighted personal care products as high-margin opportunities and recommended reduced promotions.
 
 Click on the link to view and interact with the dashboard: https://public.tableau.com/app/profile/harshaanth.kumar.thiyagaraja.kumar7877/viz/shared/MR29F7D63
 
