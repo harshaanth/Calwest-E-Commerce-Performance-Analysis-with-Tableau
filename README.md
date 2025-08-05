@@ -1,19 +1,22 @@
 # Calwest E-Commerce Performance Analysis
 
+This project presents a detailed performance analysis of Calwest E-Commerce, a fictional e-commerce company specializing in health-conscious products for individuals and pets. Leveraging Tableau, two interactive dashboards were developed to provide stakeholders with actionable insights into company-wide and regional performance.
+
 Tools: Tableau, Data Modeling, KPI’s, Dashboards
 
 Click on the link to view and interact with the dashboard: https://public.tableau.com/app/profile/harshaanth.kumar.thiyagaraja.kumar7877/viz/shared/MR29F7D63
 
-## Overview
-This project presents a detailed performance analysis of Calwest E-Commerce, a fictional e-commerce company specializing in health-conscious products for individuals and pets. Leveraging Tableau, two interactive dashboards were developed to provide stakeholders with actionable insights into company-wide and regional performance.
+## Introduction
+A major online retailer aimed to enhance its market position by understanding detailed sales performance and uncovering hidden opportunities within its extensive transaction data.
 
-Problem:
+### Problem
 Calwest E-Commerce, a leading online retailer specializing in health-conscious products for both individuals and their pets, sought to enhance its market position by gaining deeper insights into its sales performance. The company faced challenges in identifying seasonal demand shifts and pinpointing underperforming products within a large dataset of 12,000+ sales records, hindering their ability to tailor marketing and inventory decisions effectively.
 Maven Analytics
-Approach/Solution:
+
+### Solution
 Leveraging advanced data analytics tools including Excel and Tableau, I performed comprehensive data cleaning and preprocessing to ensure data accuracy. I built interactive dashboards and visualizations to reveal detailed purchase patterns, seasonal trends, and product category performance. Key performance indicators (KPIs) were tracked through dynamic filters to enable granular analysis of sales channels and customer segments.
 
-Outcome/Impact:
+### Value Delivered
 The dashboards and insights empowered the Calwest team to tailor sales campaigns effectively, optimize inventory management, and identify previously overlooked product gaps. As a result, the company was able to capitalize on seasonal trends and improve product offerings, directly supporting increased revenue potential and enhanced customer targeting.
 
 ---
