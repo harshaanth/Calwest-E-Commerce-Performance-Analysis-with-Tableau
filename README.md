@@ -2,12 +2,19 @@
 
 Tools: Tableau, Data Modeling, KPI’s, Dashboards
 
-Analyzed 12,000 records to track sales and product performance by states within the USA, visualizing profit margins and gross revenue over time. Identified a 0.51% drop in profit margin and a $4.5 decline in average order value post-January 2021 due to promotions. Highlighted personal care products as high-margin opportunities and recommended reduced promotions.
-
 Click on the link to view and interact with the dashboard: https://public.tableau.com/app/profile/harshaanth.kumar.thiyagaraja.kumar7877/viz/shared/MR29F7D63
 
 ## Overview
 This project presents a detailed performance analysis of Calwest E-Commerce, a fictional e-commerce company specializing in health-conscious products for individuals and pets. Leveraging Tableau, two interactive dashboards were developed to provide stakeholders with actionable insights into company-wide and regional performance.
+
+Problem:
+Calwest E-Commerce, a leading online retailer specializing in health-conscious products for both individuals and their pets, sought to enhance its market position by gaining deeper insights into its sales performance. The company faced challenges in identifying seasonal demand shifts and pinpointing underperforming products within a large dataset of 12,000+ sales records, hindering their ability to tailor marketing and inventory decisions effectively.
+Maven Analytics
+Approach/Solution:
+Leveraging advanced data analytics tools including Excel and Tableau, I performed comprehensive data cleaning and preprocessing to ensure data accuracy. I built interactive dashboards and visualizations to reveal detailed purchase patterns, seasonal trends, and product category performance. Key performance indicators (KPIs) were tracked through dynamic filters to enable granular analysis of sales channels and customer segments.
+
+Outcome/Impact:
+The dashboards and insights empowered the Calwest team to tailor sales campaigns effectively, optimize inventory management, and identify previously overlooked product gaps. As a result, the company was able to capitalize on seasonal trends and improve product offerings, directly supporting increased revenue potential and enhanced customer targeting.
 
 ---
 
