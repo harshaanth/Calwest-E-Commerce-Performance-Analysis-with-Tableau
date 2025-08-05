@@ -7,17 +7,16 @@ Tools: Tableau, Data Modeling, KPI’s, Dashboards
 Click on the link to view and interact with the dashboard: https://public.tableau.com/app/profile/harshaanth.kumar.thiyagaraja.kumar7877/viz/shared/MR29F7D63
 
 ## Introduction
-A major online retailer aimed to enhance its market position by understanding detailed sales performance and uncovering hidden opportunities within its extensive transaction data.
+A major online retailer sought to enhance its market position by gaining deeper insights into detailed sales performance and uncovering hidden opportunities within its extensive transaction data.
 
-### Problem
-Calwest E-Commerce, a leading online retailer specializing in health-conscious products for both individuals and their pets, sought to enhance its market position by gaining deeper insights into its sales performance. The company faced challenges in identifying seasonal demand shifts and pinpointing underperforming products within a large dataset of 12,000+ sales records, hindering their ability to tailor marketing and inventory decisions effectively.
-Maven Analytics
+## Problem
+Calwest E-Commerce, a leading retailer specializing in health-conscious products for individuals and their pets, faced challenges identifying seasonal demand shifts and pinpointing underperforming products within a large dataset of 12,000+ sales records. This limited their ability to tailor marketing and inventory decisions effectively.
 
-### Solution
-Leveraging advanced data analytics tools including Excel and Tableau, I performed comprehensive data cleaning and preprocessing to ensure data accuracy. I built interactive dashboards and visualizations to reveal detailed purchase patterns, seasonal trends, and product category performance. Key performance indicators (KPIs) were tracked through dynamic filters to enable granular analysis of sales channels and customer segments.
+## Solution
+Using advanced data analytics tools including Excel and Tableau, I performed comprehensive data cleaning and preprocessing to ensure data accuracy. I developed interactive dashboards and visualizations that revealed detailed purchase patterns, seasonal trends, and product category performance. Key performance indicators (KPIs) were tracked with dynamic filters enabling granular analysis across sales channels and customer segments.
 
-### Value Delivered
-The dashboards and insights empowered the Calwest team to tailor sales campaigns effectively, optimize inventory management, and identify previously overlooked product gaps. As a result, the company was able to capitalize on seasonal trends and improve product offerings, directly supporting increased revenue potential and enhanced customer targeting.
+## Value Delivered
+The dashboards and insights empowered the Calwest team to tailor sales campaigns effectively, optimize inventory management, and identify previously overlooked product gaps. This enabled the company to capitalize on seasonal trends and improve product offerings, directly supporting increased revenue potential and enhanced customer targeting.
 
 ---
 
