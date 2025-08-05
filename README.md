@@ -1,7 +1,5 @@
 # Calwest E-Commerce Performance Analysis
 
-This project presents a detailed performance analysis of Calwest E-Commerce, a fictional e-commerce company specializing in health-conscious products for individuals and pets. Leveraging Tableau, two interactive dashboards were developed to provide stakeholders with actionable insights into company-wide and regional performance.
-
 Tools: Tableau, Data Modeling, KPI’s, Dashboards
 
 Click on the link to view and interact with the dashboard: https://public.tableau.com/app/profile/harshaanth.kumar.thiyagaraja.kumar7877/viz/shared/MR29F7D63
